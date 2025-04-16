@@ -1,6 +1,7 @@
 # challenger-open-source
 
-![Ruby CI](https://github.com/yourusername/quiz-master/actions/workflows/ruby.yml/badge.svg)
+![Ruby CI](https://github.com/lionelkouame/challenger-open-source/actions/workflows/ruby.yml/badge.svg)
+
 
 Quiz Master is a quiz application built in Ruby, 
 following Domain-Driven Design (DDD), 
