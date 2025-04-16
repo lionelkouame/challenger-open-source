@@ -45,4 +45,4 @@ For questions, ideas or discussions, check out the [GitHub Discussions](https://
 
 ---
 
-Crafted with ❤️ by [Your Name] and the open source community.
+Crafted with ❤️ by [Your Name](https://github.com/lionelkouame).
