@@ -1,0 +1,11 @@
+require 'sequel'
+require 'dotenv/load'
+
+DB = Sequel.connect(
+  adapter: 'postgres',
+  user: ENV['POSTGRES_USER'],
+  password: ENV['POSTGRES_PASSWORD'],
+  host: 'localhost',
+  port: 5432,
+  database: ENV['POSTGRES_DB']
+)

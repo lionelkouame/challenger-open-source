@@ -1,5 +1,5 @@
 require 'minitest'
-require_relative '../../../../app/domain/quiz/quiz'
+require_relative '../../../domain/quiz/quiz'
 include Domain::Quiz
 class QuizTest < Minitest::Test
 
