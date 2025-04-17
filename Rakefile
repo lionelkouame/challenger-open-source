@@ -9,3 +9,11 @@ Rake::TestTask.new do |t|
 end
 
 task default: :test
+
+namespace :db do
+  desc 'Setup the database schema'
+  task :setup do
+    require_relative './db/schema'
+    puts 'Database schema created.'
+  end
+end

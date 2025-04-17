@@ -1,0 +1,32 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bigdecimal (3.1.9)
+    dotenv (3.1.8)
+    minitest (5.25.5)
+    pg (1.5.9)
+    rake (13.2.1)
+    sequel (5.91.0)
+      bigdecimal
+
+PLATFORMS
+  aarch64-linux-gnu
+  aarch64-linux-musl
+  arm-linux-gnu
+  arm-linux-musl
+  arm64-darwin
+  x86-linux-gnu
+  x86-linux-musl
+  x86_64-darwin
+  x86_64-linux-gnu
+  x86_64-linux-musl
+
+DEPENDENCIES
+  dotenv
+  minitest
+  pg
+  rake
+  sequel
+
+BUNDLED WITH
+   2.6.7
