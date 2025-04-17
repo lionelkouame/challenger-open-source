@@ -3,7 +3,7 @@
 ![Ruby CI](https://github.com/lionelkouame/challenger-open-source/actions/workflows/ruby.yml/badge.svg)
 
 
-Quiz Master is a quiz application built in Ruby, 
+Challenger Open Source  is a quiz application built in Ruby, 
 following Domain-Driven Design (DDD), 
 Command Query Responsibility Segregation (CQRS), 
 and Event Sourcing principles. 
@@ -40,9 +40,6 @@ rake test
 
 ## 🤝 Contributing
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 💬 Discussions
 For questions, ideas or discussions, check out the [GitHub Discussions](https://github.com/yourusername/quiz-master/discussions).
